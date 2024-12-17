@@ -1,6 +1,6 @@
 # Diwali-Sales-Analysis-Python-Project
 
-The project goal is to evaluate sales data for various products during the Diwali season. The project involved cleaning, analyzing, visualizing sales trends and understanding customer behavior based on key demographic and transactional factors like age, gender, marital status, location, and product category.
+The project goal is to improve customer experience and evaluate sales data for various products during the Diwali season. The project involved cleaning, analyzing, visualizing sales trends and understanding customer behavior based on key demographic and transactional factors like age, gender, marital status, location, and product category.
 ## Tools Used :
 Jupyter Notebook
 
