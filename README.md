@@ -1,18 +1,23 @@
 # Diwali-Sales-Analysis-Python-Project
 
-The project goal is to analyze and extract actionable insights from Diwali sales data using Python, with the aim of optimizing sales strategies, improving inventory management, and enhancing the customer experience during the festive season.
+The project goal is to evaluate sales data for various products during the Diwali season. The project involved cleaning, analyzing, and visualizing sales trends based on key demographic and transactional factors. The analysis was performed using data segmented by categories such as customer demographics (age group, marital status, gender), geographic regions (state, zone), and product attributes (product category, product ID).
 
 ## Tools Used :
 Jupyter Notebook
 
 ## Technologies: 
-Python, Pandas, Matplotlib, Seaborn
+Python, Pandas, Matplotlib, Seaborn 
 
 ## Methodologies :
-• Utilized Python libraries such as Pandas for data manipulation, and Matplotlib/Seaborn for data visualization, to create insightful reports on customer behavior and product demand.
+• Cleaned and transformed raw sales data for accurate analysis, handling missing values and ensuring data consistency.
 <br>
 
-• Developed key metrics and visualizations that helped optimize inventory management and targeted marketing strategies, contributing to more efficient resource allocation during the peak sales period.
+• Performed statistical analysis and visualized key trends in customer behavior and product sales over the Diwali period.
 <br>
 
-• Delivered actionable insights that supported decision-making processes for future promotions and seasonal campaigns.
+• Segmented sales by customer demographics (e.g., age group, gender, marital status) and geographic regions (state, zone) to identify patterns and customer preferences.
+<br>
+
+• Utilized Python libraries such as Matplotlib, Seaborn, and Pandas for creating insightful visualizations (e.g., bar charts, heatmaps) to display sales distribution and trends.
+
+
