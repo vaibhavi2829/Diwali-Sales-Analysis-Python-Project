@@ -17,6 +17,6 @@ Python, Pandas, Matplotlib, Seaborn
 • Segmented sales by customer demographics (e.g., age group, gender, marital status) and geographic regions (state, zone) to identify patterns and customer preferences.
 <br>
 
-• Utilized Python libraries such as Matplotlib, Seaborn, and Pandas for creating insightful visualizations (e.g., bar charts, heatmaps) to display sales distribution and trends.
+• Utilized Python libraries such as Matplotlib, Seaborn, and Pandas for creating insightful visualizations to display sales distribution and trends.
 
 
